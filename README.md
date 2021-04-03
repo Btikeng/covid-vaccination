@@ -18,7 +18,7 @@ The purpose of our project is to uncover patterns and relationships in the COVID
 
 Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Joe Hasell (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource].
 
-https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-codebook.csv
+https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
 
 **Data used last updated 4/1/21.**
 
